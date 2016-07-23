@@ -18,7 +18,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>controller.MainView</mainClass>
+                            <mainClass>main.java.controller.MainView</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -32,6 +32,7 @@
                     <target>1.8</target>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
 
